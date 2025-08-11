@@ -1,6 +1,6 @@
 {
-  "name": "@webinmove/kosa",
-  "version": "1.1.4",
+  "name": "@auctelia/kosa",
+  "version": "1.1.5",
   "description": "Custom error class to help handle errors at different level with aligned behaviors",
   "type": "module",
   "directories": {
@@ -23,22 +23,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webinmove/kosa.git"
+    "url": "git+https://github.com/auctelia/kosa.git"
   },
   "keywords": [
     "error",
     "errors"
   ],
-  "author": "@webinmove",
+  "author": "@auctelia",
   "contributors": [
     "Olivier Cuypers <oliviercuyp@gmail.com>",
     "Louis Borsu <sat@satprod.net>"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webinmove/kosa/issues"
+    "url": "https://github.com/auctelia/kosa/issues"
   },
-  "homepage": "https://github.com/webinmove/kosa#readme",
+  "homepage": "https://github.com/auctelia/kosa#readme",
   "semistandard": {
     "globals": [
       "describe",
