@@ -46,7 +46,7 @@ Here are the constructor arguments:
 Here is how you use it in your code.
 
 ```js
-const Kosa = require('@webinmove/kosa');
+const Kosa = require('@auctelia/kosa');
 
 if (!user) {
   throw new Kosa('USER', 404);
